@@ -1,4 +1,4 @@
-# Image Classification Using CNN on MNIST Dataset
+# Image Classification Using CNN on MNIST Dataset ( Task 1)
 
 ## Objective
 
